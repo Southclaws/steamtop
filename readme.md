@@ -1,6 +1,6 @@
 # steamtop
 
-[![Travis](https://img.shields.io/travis/Southclaws/steamtop.svg)](https://travis-ci.org/Southclaws/steamtop)
+[![Travis](https://img.shields.io/travis/Southclaws/steamtop.svg)](https://travis-ci.org/Southclaws/steamtop)[![Coverage](http://gocover.io/_badge/github.com/Southclaws/steamtop)](http://gocover.io/github.com/Southclaws/steamtop)
 
 Super simply one-function package to grab the data from http://store.steampowered.com/stats.
 
