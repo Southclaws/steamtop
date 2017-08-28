@@ -1,5 +1,7 @@
 # steamtop
 
+[![Travis](https://img.shields.io/travis/Southclaws/steamtop.svg)](https://travis-ci.org/Southclaws/steamtop)
+
 Super simply one-function package to grab the data from http://store.steampowered.com/stats.
 
 ```go
